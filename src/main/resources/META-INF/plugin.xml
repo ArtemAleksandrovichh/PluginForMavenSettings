@@ -6,7 +6,7 @@
 
     <vendor email="temikzhavoronkov@mail.ru" url="">ArtemZhavoronkov</vendor>
 
-    <description>Плагин при первом запуске проекта(клонирование с битбакета, создание и тд) настраивает Maven VM options
+    <description>The plugin configures Maven VM options at the first launch of the project (cloning from a bitbucket, creation, etc.)
     </description>
 
     <depends>com.intellij.modules.platform</depends>
